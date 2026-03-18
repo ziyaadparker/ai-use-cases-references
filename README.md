@@ -118,6 +118,8 @@ A lot of teams get stuck on this question. The honest answer: it depends on how 
 
 If you're adding AI to an existing workflow, you're probably better off integrating an API and keeping it simple. If AI is the core of what you're building, you'll want more control over the stack.
 
+Either way, it's worth talking to people who've done it. The [AI development](https://zenovahsolutions.com/ai-development/) work at Zenovah covers custom builds across a range of industries — worth a look if you're scoping something more involved. And don't overlook the interface: the best AI in the world feels broken if the UX doesn't match. If you're thinking through how users will actually interact with your product, [UI/UX design](https://zenovahsolutions.com/ui-ux-design/) considerations belong in the mix from day one.
+
 Either way, it's worth talking to people who've done it. The [AI development](https://zenovahsolutions.com/ai-development/) work at Zenovah covers custom builds across a range of industries — worth a look if you're scoping something more involved.
 
 ---
